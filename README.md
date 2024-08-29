@@ -4,6 +4,8 @@
 
 Uses Llama3.1 instead of Llama2 and supports chat with pdf
 
+You can chat either normally with Llama3.1 or upload as many pdfs you want and ask questions regarding those pdfs
+
 I used Linear Regression and Logistic Regression pdfs to test the app
 
 # Chatbot-Using-Llama2-and-Transformers
