@@ -6,6 +6,8 @@ Uses Llama3.1 instead of Llama2 and supports chat with pdf
 
 You can chat either normally with Llama3.1 or upload as many pdfs you want and ask questions regarding those pdfs
 
+You must keep a text file named token_file containing your hugging face access token. I have uploaded an example of the token_file that I used.
+
 I used Linear Regression and Logistic Regression pdfs which are from CMU to test the app
 
 # Chatbot-Using-Llama2-and-Transformers
